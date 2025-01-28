@@ -1,0 +1,265 @@
+{
+    "model": "page",
+    "srcType": "sanity",
+    "srcProjectId": "y0hwpa0c:production",
+    "presets": [
+        {
+            "label": "AsensGenerators",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "AsensGenerators"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "AsensGenerators",
+                "slug": "/",
+                "sections": [
+                    {
+                        "$$type": "heroSection",
+                        "heading": "Experience our top performing generators.",
+                        "body": "We offer 24/7 uptime for all of our sites.\n",
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Discord server",
+                                "url": "https://discord.gg/tGjs47ZmR9",
+                                "ariaLabel": null,
+                                "theme": "neutral"
+                            },
+                            {
+                                "$$type": "actionButton",
+                                "label": "Sites",
+                                "url": "https://campsite.bio/asen",
+                                "ariaLabel": null,
+                                "theme": "neutral"
+                            }
+                        ],
+                        "theme": "dark",
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": {
+                                "$$ref": "image-0917fd65964f7294a4ee105bb083f7f36fe2a599-512x512-webp",
+                                "$$type": "__asset_model"
+                            },
+                            "opacity": 40
+                        },
+                        "width": "full"
+                    },
+                    {
+                        "$$type": "cardsSection",
+                        "heading": "Why Choose Us?",
+                        "body": "# **Your ultimate beaming hub!**\n\n",
+                        "items": [
+                            {
+                                "$$type": "card",
+                                "badge": null,
+                                "heading": "💎Exclusive Beaming Methods!",
+                                "body": "Offering **FREE** strategies tailored for success.\n\n",
+                                "cta": [],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": null,
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "card",
+                                "badge": null,
+                                "heading": "Updated Domains🌐",
+                                "body": "Safe, reliable sites refreshed daily.\n\n",
+                                "cta": [],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": {
+                                        "$$ref": "image-0917fd65964f7294a4ee105bb083f7f36fe2a599-512x512-webp",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "card",
+                                "badge": null,
+                                "heading": "Advanced Tools⚙️",
+                                "body": "Pin Crackers, Brute Forcers, 2FA Bypassers\n",
+                                "cta": [],
+                                "image": {
+                                    "$$type": "customImage",
+                                    "image": {
+                                        "$$ref": "image-10d4766279c02579a966a64d5637621d06b45a8e-860x460-jpg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "alt": "Alt text for the image"
+                                },
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "card",
+                                "badge": null,
+                                "heading": "🔗 Professional Link Shortening",
+                                "body": "Boost your beaming game with our top-tier tools.\n",
+                                "cta": [],
+                                "image": null,
+                                "theme": null,
+                                "textAlign": null,
+                                "hasBorder": true
+                            }
+                        ],
+                        "theme": "dark",
+                        "backgroundImage": null,
+                        "width": null,
+                        "columns": "three"
+                    },
+                    {
+                        "$$type": "logosSection",
+                        "heading": "Award winning enterprises trust us",
+                        "body": "Recognized excellence.\n",
+                        "items": [
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-409c8299ef6340af8b49f7de840210d2260d1abd-130x144-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Unilever logo"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-399255f770e4ce2901e20bf41c975a8c5cec9766-130x36-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Riot Games logo"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-eb987c24742a7c0b96430ccc89b1f4f618f4ad77-130x129-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Mattel"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-f5475c45fb1cf4735e70374e42b52519a9e90249-130x44-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Google"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-81937d8913ce3354c25a9cd3d4ea227a8a340612-130x44-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Peloton"
+                            },
+                            {
+                                "$$type": "customImage",
+                                "image": {
+                                    "$$ref": "image-ca16cfc4b71cdd10edde06eb0dc37d56e893696b-119x37-svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "alt": "Twilio"
+                            }
+                        ],
+                        "theme": null,
+                        "backgroundImage": null,
+                        "width": null,
+                        "motion": null
+                    },
+                    {
+                        "$$type": "testimonialsSection",
+                        "heading": "What our clients are saying",
+                        "body": "Trusted by small and large businesses.\n",
+                        "items": [
+                            {
+                                "$$type": "testimonial",
+                                "quote": "\"The customer service team at AI Company is top-notch. They helped us every step of the way, and the results speak for themselves – our sales have increased by 50%!\"\n",
+                                "author": {
+                                    "$$ref": "lMC8MEWpxDQXIr8jKbBsuP",
+                                    "$$type": "person"
+                                },
+                                "theme": null,
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "testimonial",
+                                "quote": "\"From the seamless integration to the exceptional results, AI Company Name has exceeded our expectations in every way. We highly recommend their AI solutions.\"\n",
+                                "author": {
+                                    "$$ref": "fdc1ae6e-2f0d-4821-8a47-60eeb3fbf40f",
+                                    "$$type": "person"
+                                },
+                                "theme": "light",
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "testimonial",
+                                "quote": "\"The predictive maintenance tools from AI Company Name have saved us significant time and money by preventing equipment failures. It's an invaluable resource for our operations.\"\n",
+                                "author": {
+                                    "$$ref": "8ysPwHyKiY2JsGjcIjQyYA",
+                                    "$$type": "person"
+                                },
+                                "theme": "light",
+                                "hasBorder": true
+                            },
+                            {
+                                "$$type": "testimonial",
+                                "quote": "\"The AI analytics platform has provided us with deep insights into our data, allowing us to make more informed decisions. It's like having a crystal ball for our business.\"\n",
+                                "author": {
+                                    "$$ref": "8ysPwHyKiY2JsGjcIjR0w8",
+                                    "$$type": "person"
+                                },
+                                "theme": null,
+                                "hasBorder": true
+                            }
+                        ],
+                        "theme": null,
+                        "backgroundImage": null,
+                        "width": null,
+                        "columns": null
+                    },
+                    {
+                        "$$type": "ctaSection",
+                        "heading": "Ready to try AI Company?",
+                        "body": null,
+                        "cta": [
+                            {
+                                "$$type": "actionButton",
+                                "label": "Request demo",
+                                "url": "/",
+                                "ariaLabel": null,
+                                "theme": "primary"
+                            }
+                        ],
+                        "theme": "dark",
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": {
+                                "$$ref": "image-e4c9473fc0ff7f3fa23dc3c43e185a1d2a6d3005-1400x600-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "opacity": 60
+                        },
+                        "width": "inset"
+                    }
+                ],
+                "metaTitle": "Page title",
+                "addTitleSuffix": null,
+                "metaDescription": null,
+                "socialImage": null
+            }
+        }
+    ]
+}
